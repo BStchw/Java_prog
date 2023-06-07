@@ -1,0 +1,31 @@
+
+z	java:S135s"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8‡­¯æ‡1
+L
+java:S1066#"/Merge this if statement with the enclosing one.(éæ¶ê8‰­¯æ‡1
+Q
+java:S1066("/Merge this if statement with the enclosing one.(’ùµ¾þÿÿÿÿ8‰­¯æ‡1
+Q
+java:S1066-"/Merge this if statement with the enclosing one.(Çà÷ïþÿÿÿÿ8‰­¯æ‡1
+L
+java:S10662"/Merge this if statement with the enclosing one.(µ¸…Ø8‰­¯æ‡1
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(íÀ·,8‹®¯æ‡1
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(ÓŸÀÂúÿÿÿÿ8‹®¯æ‡1
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(´ŠÕ8‹®¯æ‡1
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(éÚá‡üÿÿÿÿ8‹®¯æ‡1
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(žÂ Ä8‹®¯æ‡1
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(ÓŸÀÂúÿÿÿÿ8‹®¯æ‡1
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8“®¯æ‡1
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(´ŠÕ8“®¯æ‡1
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(éÚá‡üÿÿÿÿ8”®¯æ‡1
+U	java:S106e"9Replace this use of System.out or System.err by a logger.(žÂ Ä8”®¯æ‡1
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(©ŽŠùÿÿÿÿ8•®¯æ‡1
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8•®¯æ‡1
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(©Ÿ«üýÿÿÿÿ8•®¯æ‡1
+I
+java:S1125w"'Remove the unnecessary boolean literal.(ê“·ïýÿÿÿÿ8•®¯æ‡1
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(Ûš±–8—®¯æ‡1
+U	java:S106~"9Replace this use of System.out or System.err by a logger.(£Ô¼·8äöÁæ‡1
+J
+java:S1125"'Remove the unnecessary boolean literal.(ê“·ïýÿÿÿÿ8—®¯æ‡1
+V	java:S106‚"9Replace this use of System.out or System.err by a logger.(’ÚóÁ8äöÁæ‡1
